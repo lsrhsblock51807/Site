@@ -1,0 +1,17 @@
+
+body{
+  background-color:tan;
+  font-family: 'Roboto Slab', serif;
+}
+p{font-family: 'Gamja Flower', cursive;
+}
+li{font-family: 'Gamja Flower', cursive;
+}
+a{
+  color:blue
+  text-decoration: none;
+}
+
+a:hover {
+  color:blue
+}
